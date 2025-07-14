@@ -1,6 +1,6 @@
 ## Opaaa! Sou Pedro Henrique, mais conhecido como Faria! 🦍
 
-- 🔭 Buscando oportunidade na área de tecnologia!
+- 🔭 Desenvolvedor FrontEnd Junior!
 - 🌱 Atualmente cursando Ciências da Computação!
 - 📫 meu contato por email: fariasilvapedrohenrique@gmail.com
 
